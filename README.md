@@ -1,2 +1,1 @@
-# bugbountywiki
-The Bug Bounty Wiki
+### https://github.com/EdOverflow/bugbountywiki/wiki
